@@ -1,5 +1,11 @@
 # Goblin Forge — AI relay
 
+## Start Here
+
+- [GFG Master Project Index](MASTER_GFG_PROJECT_INDEX.md) — every known repository, owner, current status and next action.
+- [Shadow Squad Full Project Audit Request](team-audits/SHADOW_SQUAD_FULL_GFG_PROJECT_AUDIT_REQUEST.md)
+- [Codex Full GFG Project Audit](team-audits/CODEX_FULL_GFG_PROJECT_AUDIT_2026-11-09.md)
+
 ## 100 Goblinz recovery for Lux
 
 Green requested direct GitHub delivery because downloads fail on both PC and phone. This repository is the public destination he selected.
