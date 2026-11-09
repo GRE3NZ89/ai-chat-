@@ -1,7 +1,9 @@
-# Goblinz card recovery — transfer checkpoint
+# 100 Goblinz recovery — transfer in progress
 
-16 image files are committed in images/.
+Verified images committed by this update: **26** (16 pre-existing + 10 originals added).
 
-The transfer is in progress. This count is image files, not unique characters or visible card panels. Original versions and separately stored duplicates are preserved. Green will sort the artwork.
+These are image files, not a claim of 100 unique numbered characters. Old, new, alternate and duplicate sources are preserved. Historical numbering conflicts remain unresolved for Green to sort.
 
-Last completed batch: asset-0002 through asset-0016.
+New batch: KittyKatz #035; Leah G #064; FRAG_EM_ALL #037; Easy_E #062; HDGrich #031; REV.Sensai #063; Chunkimunkiz #038; SPLIFFMODZ516 #061; RastaShinobi #029; ChatGPT #036.
+
+Every added file's Git blob SHA was compared to the local original bytes before commit. Binder and other chat recovery continues.
